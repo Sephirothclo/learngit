@@ -2,4 +2,8 @@ Such a puppy
 Sephiroth
 Sc
 Creat a new branch.
+<<<<<<< HEAD
 Creat a new branch quickly & simply.
+=======
+Creat a new branch quickly & simply.
+>>>>>>> feature1
