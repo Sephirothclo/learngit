@@ -8,3 +8,4 @@ Creat a new branch quickly & simply.
 Creat a new branch quickly & simply.
 >>>>>>> feature1
 Creat a new branch and it is not fast.
+Bug.
